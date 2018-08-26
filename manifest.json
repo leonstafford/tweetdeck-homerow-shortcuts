@@ -7,7 +7,7 @@
   "description": "Allows Vim navigation shortcuts for TweetDeck",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/twitter_48.png"
   },
 
   "content_scripts": [
