@@ -1,3 +1,3 @@
 #!/bin/bash
 
-zip -r -FS --exclude=*.sh* ../tweetdeck-homerow-shortcuts.zip *
+zip -r -FS ../tweetdeck-homerow-shortcuts.zip * -x "*.sh*" "*.md"
